@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geoweb>
+    
+    <target_url>http://mobile.talko.cz/index.php</target_url>
+    
+    <user_key>123</user_key>
+    
+    <path>
+        <point>
+            <lat>-112.2550785337791</lat>
+            <lng>36.07954952145647</lng>
+        </point>
+        <point>
+            <lat>-112.2549277039738</lat>
+            <lng>36.08117083492122</lng>
+        </point>
+        <point>
+            <lat>-112.2552505069063</lat>
+            <lng>36.08260761307279</lng>
+        </point>
+        <point>
+            <lat>-112.2564540158376</lat>
+            <lng>36..08395660588506</lng>
+        </point>
+        <point>
+            <lat>-112.2580238976449</lat>
+            <lng>36.08511401044813</lng>
+        </point>
+        <point>
+            <lat>-112.2595218489022</lat>
+            <lng>36.08584355239394</lng>
+        </point>
+        <point>
+            <lat>-112.2608216347552</lat>
+            <lng>36.08612634548589</lng>
+        </point>
+        <point>
+            <lat>-112.262073428656</lat>
+            <lng>36.08626019085147</lng>
+        </point>
+        <point>
+            <lat>-112.2633204928495</lat>
+            <lng>36.08621519860091</lng>
+        </point>
+        <point>
+            <lat>-112.2644963846444</lat>
+            <lng>36.08627897945274</lng>
+        </point>
+        <point>
+            <lat>-112.2656969554589</lat>
+            <lng>36.08649599090644</lng>
+        </point>
+    </path>
+    
+</geoweb>
